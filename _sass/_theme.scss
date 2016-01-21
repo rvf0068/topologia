@@ -1,4 +1,4 @@
- .site-header {
+.site-header {
   border: 0;
   .wrapper {
     padding: 50px 0;
@@ -13,9 +13,8 @@
   float: none;
   font-family: $title-font-family;
   font-weight: 900;
-  font-size: 35px;
+  font-size: 45px;
   color: $grey-color-dark;
-  text-transform: uppercase;
   letter-spacing: 1px;
   @include media-query($on-palm) {
     font-size: 30px;
