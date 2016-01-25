@@ -87,9 +87,23 @@ categories:
     that the metric topology is the same as the discrete topology.
 2.  Show that in general there is no metric on $$X$$ such that the
     metric topology is the same as the indiscrete topology.
-3.  Show that if $$\tau_{\alpha}$$ is a topology on $$X$$ for each
+3.  Show that if $$\tau$$ is any topology on $$X$$, then
+    $$\tau_{i}\subseteq\tau\subseteq\tau_{d}$$.
+4.  Show that if $$\tau_{\alpha}$$ is a topology on $$X$$ for each
     $$\alpha\in I$$, then $$\tau=\cap\tau_{\alpha}$$ is a topology
     on $$X$$.
+5.  Give an example of a set $$X$$ and topologies
+    $$\tau_{1},\tau_{2}$$ such that $$\tau_{1}\cup\tau_{2}$$ is not
+    a topology on $$X$$.
+6.  Let $$\tau=\{(a,\infty)\mid a\in
+          \mathbb{R}\}\cup\{\mathbb{R},\emptyset\}$$. Prove that $$\tau$$
+          is a topology on $$\mathbb{R}$$.
+7.  Let $$a\in X$$, and $$\tau_{a}=\{U\subseteq X\mid a\in
+          X\}\cup\{\emptyset\}$$. Prove that $$\tau_{a}$$ is a topology on
+    $$X$$.
+8.  Let $$a\in X$$, and $$\rho_{a}=\{U\subseteq X\mid a\not\in
+          X\}\cup\{X\}$$. Is $$\rho_{a}$$ a topology on $$X$$?
+9.  Let $$X=\{1,2,3\}$$. Enumerate all topologies on $$X$$.
 
 
 
