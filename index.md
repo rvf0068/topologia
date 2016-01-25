@@ -32,7 +32,7 @@ categories:
 
 # Presentaciones
 
--   25 de enero. [Topological spaces](https://github.com/rvf0068/topologia/blob/gh-pages/org/2016-01-25-topological-spaces.pdf?raw=true)
+-   25 de enero. [Topological spaces](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-01-25-topological-spaces.pdf?raw=true)
 
 # Exámenes
 
