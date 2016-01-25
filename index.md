@@ -42,6 +42,14 @@ La calificación se obtendrá como el promedio de tres exámenes.
 
 -   25 de enero. [Topological spaces](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-01-25-topological-spaces.pdf?raw=true)
 
+# Textos
+
+-   Munkres. *Topology: a first course*
+-   Conway. *A Course in Point Set Topology* <http://link.springer.com/book/10.1007/978-3-319-02368-7>
+-   Crossley. *Essential topology* <http://link.springer.com/book/10.1007/1-84628-194-6>
+-   Manetti. *Topology* <http://link.springer.com/book/10.1007/978-3-319-16958-3>
+-   Runde. *A Taste of Topology* <http://link.springer.com/book/10.1007/0-387-28387-0>
+
 # Clases recientes
 
 <ul class="post-list">
