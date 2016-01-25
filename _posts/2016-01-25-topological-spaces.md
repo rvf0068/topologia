@@ -7,50 +7,18 @@ published: true
 categories: 
 ---
 
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#orgheadline2">1. Notation</a>
-<ul>
-<li><a href="#orgheadline1">1.1. </a></li>
-</ul>
-</li>
-<li><a href="#orgheadline11">2. Topological spaces</a>
-<ul>
-<li><a href="#orgheadline5">2.1. Definitions</a></li>
-<li><a href="#orgheadline6">2.2. Examples</a></li>
-<li><a href="#orgheadline7">2.3. More examples</a></li>
-<li><a href="#orgheadline10">2.4. Cofinite topology</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline13">3. Exercises</a>
-<ul>
-<li><a href="#orgheadline12">3.1. Exercises</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline15">4. Links</a>
-<ul>
-<li><a href="#orgheadline14">4.1. Links</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
+# Notation
 
 
-# Notation<a id="orgheadline2"></a>
-
-## <a id="orgheadline1"></a>
 
 -   **$$X$$:** a set
 -   **$$P(X)$$:** the **power set** of $$X$$, that is, the set of all
     subsets of $$X$$.
 -   **$$\mathbb{R}$$:** the set of real numbers.
 
-# Topological spaces<a id="orgheadline11"></a>
+# Topological spaces
 
-## Definitions<a id="orgheadline5"></a>
+## Definitions
 
 1.  Topology
 
@@ -68,7 +36,7 @@ categories:
         called a *topological space*.
     2.  The elements of $$\tau$$ are called *open sets*.
 
-## Examples<a id="orgheadline6"></a>
+## Examples
 
 -   Let $$X$$ be any set. Then $$\tau_{d}=P(X)$$ is a topology,
     called the *discrete topology*.
@@ -79,7 +47,7 @@ categories:
 -   Let $$X=\{1,2\}$$. Then $$\tau=\{\emptyset,X,\{1\}\}$$ is a
     topology, and $$(X,\tau)$$ is called the *Sierpiński space*.
 
-## More examples<a id="orgheadline7"></a>
+## More examples
 
 -   Let 
     -   $$X=\mathbb{R}$$,
@@ -94,7 +62,7 @@ categories:
               \text{such that } B_{\epsilon}(x)\subseteq U\}$$.
     -   Then $$\tau$$ is called the *metric topology* on $$X$$.
 
-## Cofinite topology<a id="orgheadline10"></a>
+## Cofinite topology
 
 1.  Cofinite topology
 
@@ -111,9 +79,9 @@ categories:
         $$U_{1}\cap U_{2}$$ is empty or $$X-(U_{1}\cap U_{2})$$ is
         finite.
 
-# Exercises<a id="orgheadline13"></a>
 
-## Exercises<a id="orgheadline12"></a>
+
+## Exercises
 
 1.  Show that if $$X$$ is any set, there is a metric on $$X$$ such
     that the metric topology is the same as the discrete topology.
@@ -123,9 +91,9 @@ categories:
     $$\alpha\in I$$, then $$\tau=\cap\tau_{\alpha}$$ is a topology
     on $$X$$.
 
-# Links<a id="orgheadline15"></a>
 
-## Links<a id="orgheadline14"></a>
+
+## Links
 
 -   [Topological space - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Topological_space)
 -   [How to get intuition in topology concerning the definitions? - Mathematics Stack Exchange](http://math.stackexchange.com/questions/1598409/)
