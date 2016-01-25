@@ -108,7 +108,8 @@ categories:
         show that either $$\cup_{\alpha}U_{\alpha}$$ is empty or
         $$X-\cup_{\alpha}U_{\alpha}$$ is finite.
     -   Let $$U_{1},U_{2}\in\tau$$. We need to show that either
-        $$U_{1}\cap U_{2}$$ is empty or $$X-U_{1}\cap U_{2}$$ is finite.
+        $$U_{1}\cap U_{2}$$ is empty or $$X-(U_{1}\cap U_{2})$$ is
+        finite.
 
 # Exercises<a id="orgheadline13"></a>
 
