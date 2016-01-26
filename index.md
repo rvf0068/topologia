@@ -41,6 +41,7 @@ La calificación se obtendrá como el promedio de tres exámenes.
 # Presentaciones en pdf
 
 -   25 de enero. [Topological spaces](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-01-25-topological-spaces.pdf?raw=true)
+-   26 de enero. [Bases](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-01-26-bases.pdf?raw=true)
 
 # Textos
 
