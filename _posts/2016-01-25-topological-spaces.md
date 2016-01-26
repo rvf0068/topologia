@@ -99,10 +99,10 @@ categories:
           \mathbb{R}\}\cup\{\mathbb{R},\emptyset\}$$. Prove that $$\tau$$
           is a topology on $$\mathbb{R}$$.
 7.  Let $$a\in X$$, and $$\tau_{a}=\{U\subseteq X\mid a\in
-          X\}\cup\{\emptyset\}$$. Prove that $$\tau_{a}$$ is a topology on
+          U\}\cup\{\emptyset\}$$. Prove that $$\tau_{a}$$ is a topology on
     $$X$$.
 8.  Let $$a\in X$$, and $$\rho_{a}=\{U\subseteq X\mid a\not\in
-          X\}\cup\{X\}$$. Is $$\rho_{a}$$ a topology on $$X$$?
+          U\}\cup\{X\}$$. Is $$\rho_{a}$$ a topology on $$X$$?
 9.  Let $$X=\{1,2,3\}$$. Enumerate all topologies on $$X$$.
 
 
