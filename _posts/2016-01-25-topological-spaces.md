@@ -22,7 +22,7 @@ categories:
 
 1.  Topology
 
-    A *topology* on $$X$$ is a subset
+    A **topology** on $$X$$ is a subset
     $$\tau\subseteq P(X)$$, such that:
     
     -   **(T1):** $$\emptyset,X\in\tau$$.
@@ -33,19 +33,19 @@ categories:
 2.  Topological spaces
 
     1.  If $$\tau$$ is a topology on $$X$$, the pair $$(X,\tau)$$ is
-        called a *topological space*.
-    2.  The elements of $$\tau$$ are called *open sets*.
+        called a **topological space**.
+    2.  The elements of $$\tau$$ are called **open sets**.
 
 ## Examples
 
 -   Let $$X$$ be any set. Then $$\tau_{d}=P(X)$$ is a topology,
-    called the *discrete topology*.
+    called the **discrete topology**.
 
 -   Let $$X$$ be any set. Then $$\tau_{i}=\{\emptyset,X\}$$ is a
-    topology, called the *indiscrete topology*.
+    topology, called the **indiscrete topology**.
 
 -   Let $$X=\{1,2\}$$. Then $$\tau=\{\emptyset,X,\{1\}\}$$ is a
-    topology, and $$(X,\tau)$$ is called the *Sierpiński space*.
+    topology, and $$(X,\tau)$$ is called the **Sierpiński space**.
 
 ## More examples
 
@@ -53,14 +53,14 @@ categories:
     -   $$X=\mathbb{R}$$,
     -   $$\tau=\{U\subseteq X\mid \forall x\in U\,\exists\epsilon>0,
               \text{such that } (x-\epsilon,x+\epsilon)\subseteq U\}$$.
-    -   Then  $$\tau$$ is called the *usual topology* on $$\mathbb{R}$$.
+    -   Then  $$\tau$$ is called the **usual topology** on $$\mathbb{R}$$.
 
 -   Let
     -   $$(X,d)$$ be any metric space. For $$x\in X$$, let
         $$B_{\epsilon}(x)=\{y\in X\mid d(x,y)<\epsilon\}$$.
     -   $$\tau=\{U\subseteq X\mid \forall x\in U\,\exists\epsilon>0,
               \text{such that } B_{\epsilon}(x)\subseteq U\}$$.
-    -   Then $$\tau$$ is called the *metric topology* on $$X$$.
+    -   Then $$\tau$$ is called the **metric topology** on $$X$$.
 
 ## Cofinite topology
 
@@ -97,7 +97,7 @@ categories:
     a topology on $$X$$.
 6.  Let $$\tau=\{(a,\infty)\mid a\in
           \mathbb{R}\}\cup\{\mathbb{R},\emptyset\}$$. Prove that $$\tau$$
-          is a topology on $$\mathbb{R}$$.
+    is a topology on $$\mathbb{R}$$.
 7.  Let $$a\in X$$, and $$\tau_{a}=\{U\subseteq X\mid a\in
           U\}\cup\{\emptyset\}$$. Prove that $$\tau_{a}$$ is a topology on
     $$X$$.
