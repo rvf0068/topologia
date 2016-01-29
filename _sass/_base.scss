@@ -202,3 +202,11 @@ pre {
         }
     }
 }
+
+/**
+ * Bold, see https://github.com/diezcami/arctic-fox-theme/issues/1
+ */
+
+b, strong {
+font-weight: 600;
+}
