@@ -44,6 +44,7 @@ La calificación se obtendrá como el promedio de tres exámenes.
 -   26 de enero. [Bases](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-01-26-bases.pdf?raw=true)
 -   28 de enero. [Bases and subbases](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-01-28-bases-and-subbases.pdf?raw=true)
 -   1 de febrero. [The order topology](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-01-order-topology.pdf?raw=true)
+-   2 de febrero. [Subspaces](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-02-subspaces.pdf?raw=true)
 
 # Textos
 
