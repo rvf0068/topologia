@@ -95,16 +95,16 @@ categories:
 
 ## Exercises
 
--   Show that if we consider in $$\mathbb{R}$$ the usual topology,
+1.  Show that if we consider in $$\mathbb{R}$$ the usual topology,
     then the topology on $$\mathbb{N}$$ as a subspace of
     $$\mathbb{R}$$ is discrete.
--   Let $$Y\subseteq X$$ be open. Show that $$A\subseteq Y$$ is open
+2.  Let $$Y\subseteq X$$ be open. Show that $$A\subseteq Y$$ is open
     in Y if and only if it is open in $$X$$.
--   Let $$A\subseteq Y\subseteq X$$, where $$X$$ is a topological
+3.  Let $$A\subseteq Y\subseteq X$$, where $$X$$ is a topological
     space. Show that the topology of $$A$$ as a subspace of $$X$$ is
     the same as $$(\tau_{Y})_{A}$$.
--   Show that if $$X$$ is a topological space, and $$A\subseteq
-         Y\subseteq X$$, then the topology of $$A$$ as a subspace of $$Y$$
+4.  Show that if $$X$$ is a topological space, and $$A\subseteq
+          Y\subseteq X$$, then the topology of $$A$$ as a subspace of $$Y$$
     is the same as a subspace of $$X$$ ($$Y$$ is a subspace of $$X$$).
 
 
