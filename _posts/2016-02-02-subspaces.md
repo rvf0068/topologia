@@ -100,10 +100,7 @@ categories:
     $$\mathbb{R}$$ is discrete.
 2.  Let $$Y\subseteq X$$ be open. Show that $$A\subseteq Y$$ is open
     in Y if and only if it is open in $$X$$.
-3.  Let $$A\subseteq Y\subseteq X$$, where $$X$$ is a topological
-    space. Show that the topology of $$A$$ as a subspace of $$X$$ is
-    the same as $$(\tau_{Y})_{A}$$.
-4.  Show that if $$X$$ is a topological space, and $$A\subseteq
+3.  Show that if $$X$$ is a topological space, and $$A\subseteq
           Y\subseteq X$$, then the topology of $$A$$ as a subspace of $$Y$$
     is the same as a subspace of $$X$$ ($$Y$$ is a subspace of $$X$$).
 
