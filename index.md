@@ -45,6 +45,10 @@ La calificación se obtendrá como el promedio de tres exámenes.
 -   28 de enero. [Bases and subbases](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-01-28-bases-and-subbases.pdf?raw=true)
 -   1 de febrero. [The order topology](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-01-order-topology.pdf?raw=true)
 -   2 de febrero. [Subspaces](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-02-subspaces.pdf?raw=true)
+-   4 de febrero. [Products](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-04-products.pdf?raw=true)
+-   8 de febrero. [Closed sets](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-04-closed-sets.pdf?raw=true)
+-   9 de febrero. [Closure and interior](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-09-closure-and-interior.pdf?raw=true)
+-   11 de febrero. [Hausdorff spaces](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-11-hausdorff-spaces.pdf?raw=true)
 
 # Textos
 
