@@ -49,6 +49,8 @@ La calificación se obtendrá como el promedio de tres exámenes.
 -   8 de febrero. [Closed sets](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-04-closed-sets.pdf?raw=true)
 -   9 de febrero. [Closure and interior](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-09-closure-and-interior.pdf?raw=true)
 -   11 de febrero. [Hausdorff spaces](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-11-hausdorff-spaces.pdf?raw=true)
+-   15,16 de febrero. [Continuous functions](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-15-continuous-functions.pdf?raw=true)
+-   18 de febrero. [Constructing continuous functions](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-18-constructing-continuous-functions.pdf?raw=true)
 
 # Textos
 
