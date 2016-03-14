@@ -147,8 +147,8 @@ categories:
 ## Exercises
 
 1.  Let $$X=\{1,2,3,4,5,6\}$$, and
-    $$S=\{\{1,2,3\},\{3,4,5\},\{4,5,6\}\}$$. Enumerate the open sets
-    of $$\tau_{\mathcal{S}}$$.
+    $$\mathcal{S}=\{\{1,2,3\},\{3,4,5\},\{4,5,6\}\}$$. Enumerate the
+    open sets of $$\tau_{\mathcal{S}}$$.
 2.  Show that if $$\mathcal{S}$$ is a subbase for a topology on $$X$$,
     then $$\tau_{\mathcal{S}}$$ is equal to the intersection of the
     topologies on $$X$$ that contain $$\mathcal{S}$$.

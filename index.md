@@ -51,6 +51,8 @@ La calificación se obtendrá como el promedio de tres exámenes.
 -   11 de febrero. [Hausdorff spaces](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-11-hausdorff-spaces.pdf?raw=true)
 -   15,16 de febrero. [Continuous functions](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-15-continuous-functions.pdf?raw=true)
 -   18 de febrero. [Constructing continuous functions](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-02-18-constructing-continuous-functions.pdf?raw=true)
+-   7 de marzo. [Arbitrary products](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-03-07-arbitrary-products.pdf?raw=true)
+-   14 de marzo. [Metric topology](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-03-14-metric-topology.pdf?raw=true)
 
 # Textos
 

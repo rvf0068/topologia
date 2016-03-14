@@ -126,7 +126,7 @@ categories:
 ## Exercises
 
 1.  Let $$(X,<)$$ be a totally ordered set, and let $$Y\subseteq
-         X$$. If, for $$y,y'\in Y$$ we define $$y<'y'$$ whenever $$y<y'$$ in
+         X$$. If, for $$a,b\in Y$$ we define $$a<'b$$ whenever $$a<b$$ in
     $$X$$, show that $$(Y,<')$$ is a totally ordered set.
 2.  If $$X$$ is a totally ordered set, and $$Y\subseteq X$$, show that
     $$Y$$ can have at most one smallest element.
