@@ -84,5 +84,5 @@ categories:
     every function $$f\colon X\to Y$$ is continuous at $$x_{0}$$. Is
     the converse true?
 3.  Prove that $$f\colon X\to Y$$ is continuous if and only if for
-    every $$A\subseteq X$$ we have that $$f^{-1}(A^{\circ})\subseteq
+    every $$A\subseteq Y$$ we have that $$f^{-1}(A^{\circ})\subseteq
           (f^{-1}(A))^{\circ}$$.
