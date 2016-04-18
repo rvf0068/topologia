@@ -54,6 +54,7 @@ La calificación se obtendrá como el promedio de tres exámenes.
 -   7 de marzo. [Arbitrary products](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-03-07-arbitrary-products.pdf?raw=true)
 -   14 de marzo. [Metric topology](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-03-14-metric-topology.pdf?raw=true)
 -   29 de marzo. [Continuity and sequences](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-03-29-continuity-and-sequences.pdf?raw=true)
+-   12 de abril. [Quotient spaces](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-04-12-quotient-spaces.pdf?raw=true)
 
 # Textos
 
