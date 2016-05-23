@@ -56,6 +56,8 @@ La calificación se obtendrá como el promedio de tres exámenes.
 -   29 de marzo. [Continuity and sequences](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-03-29-continuity-and-sequences.pdf?raw=true)
 -   12 de abril. [Quotient spaces](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-04-12-quotient-spaces.pdf?raw=true)
 -   26 de abril. [Connectedness](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-04-26-connectedness.pdf?raw=true)
+-   5 de mayo. [Components and local connectedness](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-05-05-components-and-local-connectedness.pdf?raw=true)
+-   12 de mayo. [Compactness](https://github.com/rvf0068/topologia/raw/gh-pages/pdfs/2016-05-12-compactness.pdf?raw=true)
 
 # Textos
 
