@@ -245,7 +245,7 @@ categories:
     Let $$f\colon X\to Y$$ be a continuous map, where $$X$$ is
     connected and $$Y$$ is ordered and has the order topology. Suppose
     that $$a,b\in X$$ and $$y\in Y$$ are such that
-    $$f(a)<r<f(b)$$. Then there is $$c\in X$$ such that $$f(c)=y$$.
+    $$f(a)<y<f(b)$$. Then there is $$c\in X$$ such that $$f(c)=y$$.
 
 # Path connectedness
 
